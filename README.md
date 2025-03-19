@@ -85,7 +85,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/ileostar/ileostar/output/snake.svg" alt="Snake animation" />
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
