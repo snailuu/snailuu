@@ -30,12 +30,12 @@
 <div>
 
 ##### GitHub status
-![snailuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=snailuu&show_icons=true&theme=shadow_green&hide=issues&line_height=24)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snailuu&layout=compact&show_icons=truee&include_all_commits=true&theme=shadow_green&card_width=360)
+![](https://readme-stats-server-jackcc.vercel.app/api?username=snailuu&title_color=#35bdf7&text_color=777)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=snailuu&layout=compact&show_icons=true&border-color=#e4e2e2&include_all_commits=true&theme=shadow_green&card_width=360)
 <!--
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=snailuu&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=Dsnailuu&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snailuu&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=snailuu&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=330&car_height=500)
 -->
 <!-- ======================================= -->
 
