@@ -31,7 +31,7 @@
 
 ##### GitHub status
 ![snailuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=snailuu&show_icons=true&theme=shadow_green&hide=issues&line_height=24)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snailuu&layout=compact&show_icons=truee&include_all_commits=true&theme=shadow_green&card_width=360&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=snailuu&layout=compact&show_icons=truee&include_all_commits=true&theme=shadow_green&card_width=360)
 <!--
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=snailuu&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=Dsnailuu&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
